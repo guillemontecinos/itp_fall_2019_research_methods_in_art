@@ -1,6 +1,8 @@
 # Research Methods in Art and Design Notes
 *[Mitchell Joachim](https://en.wikipedia.org/wiki/Mitchell_Joachim)*
+**[Syllabus](https://newclasses.nyu.edu/portal/site/2bd1a20a-a674-4d28-badf-9fbfcd2228d9/tool/940fc9f5-7266-4f5a-80b3-9cc73e310047/main)**
 
+## Class 1
 * [vanilla ice & david bowie](https://www.stereogum.com/1951816/vanilla-ice-just-straight-up-bought-under-pressure-from-david-bowie-queen/video/)
 * [New Lab](https://newlab.com)
 * [The Resume of Failures- Johannes Haushofer](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)
