@@ -26,3 +26,32 @@
 * [Pentagram](https://www.pentagram.com/work/bruises-the-data-we-dont-see)
 * [Flowing Data](https://flowingdata.com/2018/02/01/bruises/)
 * [Medium Post](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
+
+### Björk's Letters with Timothy Morton
+* post humanism is the first ism where the human is no at the center of
+* art is a way to attune to what reality is
+* isms have been historically about ignoring reality, in other words nohuman beings
+
+## Class 2
+* Recommended books: 
+    * [Out of control - Kevin Kelly](https://kk.org/mt-files/books-mt/ooc-mf.pdf)
+    * [Gödel, Escher, Bach: An eternal golden braid - Douglas R. Hofstadter](https://archive.org/details/GEBen_201404)
+* Ada Lovelace
+* [Fast, Cheap & Out of Control](https://www.imdb.com/title/tt0119107/) movie based on Kelly's book
+* [Stephen Wolfram - A new kind of sicene](https://www.wolframscience.com/nks/)
+* [Wolfram Tones](http://tones.wolfram.com/generate/G1BMyY7iif85r5tqd0SDlKr5flkeYRDyyYaS7c9nMgwm)
+* [Turing test - tests if ***you*** are machine or a human](https://en.wikipedia.org/wiki/Turing_test)
+* In your work you create the rules
+* Base your work on the rules you create
+* Noam Chomski
+* [Luigi Colani](https://en.wikipedia.org/wiki/Luigi_Colani), designer
+* Synthesis of form
+* [Form follows function](https://en.wikipedia.org/wiki/Form_follows_function)
+    * [Frank Furness](https://en.wikipedia.org/wiki/Frank_Furness)
+    * [Louis Sullivan](https://en.wikipedia.org/wiki/Louis_Sullivan)
+    * [Frank Lloyd Wright](https://en.wikipedia.org/wiki/Frank_Lloyd_Wright)
+    * [Louis Kahn](https://en.wikipedia.org/wiki/Louis_Kahn): what does a brick want to be?
+* [The toaster project - Thomas Thwaites](http://www.thomasthwaites.com/the-toaster-project/)
+* [Philippe Starck](https://en.wikipedia.org/wiki/Philippe_Starck)
+*
+

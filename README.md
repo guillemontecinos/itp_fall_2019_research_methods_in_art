@@ -1,11 +1,11 @@
 # Research Methods in Art and Design
 ## Assignment 1: Bruises — The Data We Don’t See
-This project is collaboration between [Giorgia Lupi](https://giorgialupi.com/) and the musician [Kaki King](https://www.kakiking.com/)
+This project is a collaboration between [Giorgia Lupi](https://giorgialupi.com/) and the musician [Kaki King](https://www.kakiking.com/)
 
 ### Bruises and how the collaboration started
 This project started when the musician Kaki King realized that her daughter, Cooper had [Immune thrombocytopenic purpura (ITP) Condition](https://en.wikipedia.org/wiki/Immune_thrombocytopenic_purpura), a type of thrombocytopenic [purpura](https://en.wikipedia.org/wiki/Purpura) defined as an isolated low platelet count with a normal bone marrow in the absence of other causes of low platelets. ITP is an auto-immune disease that causes a characteristic red or purple bruise-like rash and an increased tendency to bleed.
 
-King started data collection based on Cooper's sympthoms as a way to relief her anxiety and to be able to keep control on a situation that was out of her control. ***I began to write down what I was seeing on Cooper’s skin, what activities we did that day, what treatments she had and what her reading were, as well as how I was feeling. My fear, stress, my hope. My thoughts and feelings.”*** Data was collected during 4 month and then systematized by Lupi.
+King started data collection based on Cooper's symptoms as a way to relieve her anxiety and to be able to keep control on a situation that was out of her control. ***I began to write down what I was seeing on Cooper’s skin, what activities we did that day, what treatments she had and what her reading were, as well as how I was feeling. My fear, stress, my hope. My thoughts and feelings.”*** Data was collected during 4 month and then systematized by Lupi.
 
 ![](https://miro.medium.com/max/3840/1*Qb2Jly4jo1CXT747p7dRxA.jpeg)
 
@@ -21,7 +21,7 @@ The principle Lupi employed in this process is what she calls Data Humanism, a w
 
 ![](https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1517510891182-7BFXBYE4A6D8Z5BTRORZ/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/1_1_hVP63vxohS4TFsej64WQ.jpeg?format=2500w)
 
-The artist –in order to create a narrative with the data gathered– had to dive into the data in order to find underlaying structures or time patterns that could explain Kaki's sensations, anxiety and the progress of the disease on Cooper's body. In order to do that, Lupi structured the information based on it's smaller structure: each day was represented with a white petal. Then, days were grouped by the periodicity in which platelets counts were performed, so each platelet count represented by a bunch of red dots was followed by a bunch of white petals.
+The artist –in order to create a narrative with the data gathered– had to dive into the data in order to find underlying structures or time patterns that could explain Kaki's sensations, anxiety and the progress of the disease on Cooper's body. In order to do that, Lupi structured the information based on it's smaller structure: each day was represented with a white petals. Then, days were grouped by the periodicity in which platelets counts were performed, so each platelet count represented by a bunch of red dots was followed by a bunch of white petals.
 
 ![](https://miro.medium.com/max/16000/1*YHyrPe4Nm7PSzYU8DLwIMg.jpeg)
 
