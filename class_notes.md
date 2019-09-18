@@ -1,5 +1,6 @@
 # Research Methods in Art and Design Notes
 *[Mitchell Joachim](https://en.wikipedia.org/wiki/Mitchell_Joachim)*
+
 **[Syllabus](https://newclasses.nyu.edu/portal/site/2bd1a20a-a674-4d28-badf-9fbfcd2228d9/tool/940fc9f5-7266-4f5a-80b3-9cc73e310047/main)**
 
 ## Class 1
@@ -53,5 +54,13 @@
     * [Louis Kahn](https://en.wikipedia.org/wiki/Louis_Kahn): what does a brick want to be?
 * [The toaster project - Thomas Thwaites](http://www.thomasthwaites.com/the-toaster-project/)
 * [Philippe Starck](https://en.wikipedia.org/wiki/Philippe_Starck)
-*
+* [Bill Gates - Innovating to zero TED Talk](https://www.ted.com/talks/bill_gates/transcript)
+
+### Assignment: Come in with the begining of our research:
+* questions, principles, rules
+* bring backups of what supporst that
+* books, projects, physical,
+* mockups, images, documentations, videos, movies, all
+* title, name
+* big question
 
