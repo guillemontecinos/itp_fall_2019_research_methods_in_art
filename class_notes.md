@@ -19,3 +19,10 @@
 * From Earth to the Moon - Jules Verne
 * The Farewell (movie)
 * what if computation wasn't invented by a mathematician?
+
+### Project Selected: *Bruises: The data we don't see*
+* [giorgialupi.com](https://giorgialupi.com/bruises-the-data-we-dont-see/)
+* [Kantar Information is beautiful Awards](https://www.informationisbeautifulawards.com/showcase/3288-bruises-the-data-we-don-t-see)
+* [Pentagram](https://www.pentagram.com/work/bruises-the-data-we-dont-see)
+* [Flowing Data](https://flowingdata.com/2018/02/01/bruises/)
+* [Medium Post](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
