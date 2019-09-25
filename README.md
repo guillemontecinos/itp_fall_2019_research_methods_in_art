@@ -39,6 +39,10 @@ On top of this structure other elements of King's collection were displayed: bru
 * [Review @ Frizzi Frizzi (Italy)](https://www.frizzifrizzi.it/2018/02/01/visualizzare-poeticamente-malattia-autoimmune/)
 
 ## Assignment 2: Research 1st iteration
+Virtual and Augmented Reality (badly called XR) are techonologies that can modify either completely or partially the world a user can experience. Even though these technologies have been around for at least 30 years, it has been since computational power devolpment has pushed techonological boundaries and making XR accessible to a great amount of people.
+
+Since a great share of human population have access to these new way experiencing world I ask myself: how does this technologies may reshape the way humans interact with the world? how do we move in space, talk to each other when using these techonologies?
+
 ### Questions
 * how AR reshapes the way humans move in space?
 * how VR by creating new worlds leads human to interact in new ways with them?
@@ -48,9 +52,9 @@ On top of this structure other elements of King's collection were displayed: bru
 * what are the political implications of immersing ourselves in this miced realities environments?
 
 ### sonAR - A Spatial sound AR experience
-This research project responds to an AR experience I designed last semester called [sonAR](https://guillemontecinos.cl/portfolio/sonar/). It consisted on physical representations of sound sources that were able to be spawned in the real space and explored by the usage of an smartphone or a tablet.
+This research project responds to an AR experience I designed last semester called [sonAR](https://guillemontecinos.cl/portfolio/sonar/). It consisted on physical representations of sound sources that were spawned in the real space and explored by the usage of an smartphone or a tablet as an interface.
 
-The goal of this project was to explore how sounds could be spatialized in a virtual space that exists on top of the actuall world, and how humans interacted with, mooved around, looked at and listened to them. Even though the experience didn't achieve the expected results of setting a propice context for particular human interactions with virtual or augmented realities, it offers a particular AR architecture to be analyzed.
+The goal of this project was to explore how sounds could be spatialized in a virtual space that existd on top of the real space, and how humans interacted with, moved around, looked at and listened to their sound. Even though the experience didn't achieve the expected results of conditioning particular human interactions with virtual or augmented realities, it offers an interesting starting point to be explored.
 
 <p align="center">
     <img src="https://github.com/guillemontecinos/itp_spring_2019_music_interaction_design/blob/master/week_11_final/documentation/sonar_wsq.gif" align="middle" width="100%">
@@ -70,4 +74,6 @@ The goal of this project was to explore how sounds could be spatialized in a vir
 * [Flesh and Metal: Reconfiguring the Mindbody in Virtual Environments (Hayles, 2002)](https://muse.jhu.edu/article/46510/pdf)
 * [A cyborg manifesto - Donna Haraway](https://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
 * [The Telekommunist Manifesto - Dmytri Kleiner](http://media.telekommunisten.net/manifesto.pdf)
+* You Are Not a Gadget. A manifesto - Jaron Lanier
+* Dawn of the New Everything. A journey through Virtual Reality - Jaron Lanier
 * Simulacra and Simulation - Jean Baudrillard
