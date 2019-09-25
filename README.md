@@ -37,3 +37,33 @@ On top of this structure other elements of King's collection were displayed: bru
 * [Review @ Fast Company](https://www.fastcompany.com/90159089/a-mothers-heart-wrenching-map-of-her-childs-illness)
 * [Review @ Eye on Design](https://eyeondesign.aiga.org/how-kaki-king-and-giorgia-lupi-used-data-to-make-sense-of-a-childs-illness/)
 * [Review @ Frizzi Frizzi (Italy)](https://www.frizzifrizzi.it/2018/02/01/visualizzare-poeticamente-malattia-autoimmune/)
+
+## Assignment 2: Research 1st iteration
+### Questions
+* how AR reshapes the way humans move in space?
+* how VR by creating new worlds leads human to interact in new ways with them?
+* how new ways of interacting in space reshape how humans move in space?
+* what does it mean in terms of body posture, gestures, gaze and human interaction?
+* how XR can open a new research field in performance studies?
+* what are the political implications of immersing ourselves in this miced realities environments?
+
+### Mockups - sonAR
+This research project responds to an AR experience I designed last semester called sonAR. It consisted in physical representations of sound sources that were able to be spawned in the real space and explored by the usage of an smartphone or a tablet.
+
+The goal of this project was to explore how sounds could be spatialized in a virtual space that exists on top of the actuall world, and how humans interacted with, mooved around, looked at and listened to them. Even though the experience didn't achieve the expected results of setting a propice context for particular human interactions with virtual or augmented realities, it offers a particular AR architecture to be analyzed.
+
+
+### References Research
+* [Social interaction in augmented reality (Miller et. al, 2019)](https://vhil.stanford.edu/mm/2019/05/miller-pone-social-interaction-ar.pdf)
+* [Radical Technologies: The Design of Everyday Life](https://en.wikipedia.org/wiki/Radical_Technologies) chapter 3 *Augmented reality: an interactive overlay on the world*.
+* [A Survey of Evaluation Techniques Used in Augmented Reality Studies (Dünser et. al, 2008)](https://www.researchgate.net/profile/Mark_Billinghurst/publication/216867631_A_Survey_of_Evaluation_Techniques_Used_in_Augmented_Reality_Studies/links/09e4150782be47b86d000000.pdf) surveys 165 AR related papers. 41 studies relate to *Perception and cognition* and 75 to *User task performance*, that address in some ways the question about human interaction with AR medium.
+* [Virtual reality and physical rehabilitation: a new toy or a new research and rehabilitation tool? (Keshner, 2004)](https://jneuroengrehab.biomedcentral.com/track/pdf/10.1186/1743-0003-1-8) briefly aims to address the question *Why use a virtual world for rehabilitation?*.
+* [Survey of User-Based Experimentation in Augmented Reality (JE Swan & JL Gabbard, 2005)](https://people.cs.vt.edu/~jgabbard/publications/hcivr05.pdf) survey and categorize the user-based studies that have been conducted using AR to date (2005).
+* [Augmented Reality in built environment: Classification and implications for future research (X Wang et. al, 2013)](https://pdf.sciencedirectassets.com/271427/1-s2.0-S0926580513X00020/1-s2.0-S0926580512002166/main.pdf?X-Amz-Security-Token=AgoJb3JpZ2luX2VjEEEaCXVzLWVhc3QtMSJGMEQCIDv5s7ScaNNdCgW9cz%2BU6Mjhl0Vyaoy0LQ90XuN0lwSRAiBpS6ookSXgesYZ4DCfSBrvUULJXnomAbbZVa7XSsBt2yraAwgaEAIaDDA1OTAwMzU0Njg2NSIM%2FDLaLwKFV5nOZyUTKrcDY2ELFBBEj11UDj4MbscRf%2BJ9VPLbqgeDUK%2FwDYUZB7EgoJn8L8U6lhKCB9aEebjE0QNqvO%2BwWMcS0%2BAK2vKCXD2zfTj%2F0s8ziEgbq99%2BjhPZlhtIt9VkFbitKMAGrRZEXsnn9HMhFQzuNHFKksC%2BWEMX%2FqFY9z2maaVrzu0m8E0wg0O%2Fkp%2BaAVobaPN%2F73cTo4dW76nlML%2FcvCEckM5fIelV7T7CO8G1ICIRm%2B5Gn90OBSLCWZfsGHnTnmCc8ueKcqJnDkzbbYGkxPGCoqdpK2IwseUkU8u84T2a8Azl4GKOoMnkfU9L6iN7gl72MjQCVy3%2B0EBG8NqqW25NS6ISEzrTTJtv%2F3o2prBLyTby%2BeF0fN%2B71ysa8jE5JZfPLAT3WHq7zNm2j%2BSLMLabNxUz2UualzHLM9%2BYy%2BBYq8kPtdmh4hM3hCauQC2hvWqGuNYLGub6O9FYKIpx9VYpedvkVTDOaKqtfsyLfMeBHa41Z1sxkR7CkTqoRez3mCXSN14fbU%2B3R87M35VuHcrabb9PEo3xSFxXMyK%2F59U3CO3BfaO3mjbPu3IWAzjx%2BHWB8kwwSijsTOL5rDDB7KPsBTq1ARlebF548nolX9rc9OOQY54aA8Z72lYgcl%2FoVAkq%2FecJ5mjcMAuZSxi5hLCR2YKrWL0i18yOjOMwkNb3Tg%2Bl8Sk8phfHj%2FtR02seRqN08LRfc%2BwPA2ygD1qXcjAWEJzCFo8l14WT%2Bb6sjSqeSqQs6SyRbp6tA6GiG%2FpAIxyTis0cM7Q%2Bf256LNX7Yq%2F1tVLvv4SGUslndecaVciq9aBqZgjVIL78BJKWUnFi%2BsJuueJ3GKoDhhs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190923T171343Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVWYEZ6WG%2F20190923%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=24d195275e2a35303c07194cbe32909e11ddd0317dc0b689958a0b204bc04df1&hash=3bfaa84e07eae83c16857645fbf3bc6ac64e78dc654c1e5de0bf5016794d5838&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0926580512002166&tid=spdf-b7975c98-0e01-4630-bb22-4d56e9b84bb5&sid=2534fc1368526845109aceb141a71fdcbe61gxrqa&type=client) surveys research on AR built environment between 2005 - 2011.
+* [The Role of 3-D Sound in Human Reaction and Performance in Augmented Reality Environments (Zhou et. al, 2007)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4100785&tag=1)
+* [Performance and Technology. Book](https://link.springer.com/content/pdf/10.1057/9780230288157.pdf), chapter 7: *Learning to Dance with Angelfish: Choreographic Encounters Between Virtuality and Reality*
+* [How we became posthuman. Virtual bodies in cybernetics, literature and informatics (Hayles, 1999). Book](https://www.akademinvaland.gu.se/infoglueCalendar/digitalAssets/1783813728_BifogadFil_Hayles-Posthuman-excerpts.pdf)
+* [Flesh and Metal: Reconfiguring the Mindbody in Virtual Environments (Hayles, 2002)](https://muse.jhu.edu/article/46510/pdf)
+* [A cyborg manifesto - Donna Haraway](https://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf)
+* [The Telekommunist Manifesto - Dmytri Kleiner](http://media.telekommunisten.net/manifesto.pdf)
+* Simulacra and Simulation - Jean Baudrillard
