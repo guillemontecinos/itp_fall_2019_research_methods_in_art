@@ -53,7 +53,9 @@ This research project responds to an AR experience I designed last semester call
 The goal of this project was to explore how sounds could be spatialized in a virtual space that exists on top of the actuall world, and how humans interacted with, mooved around, looked at and listened to them. Even though the experience didn't achieve the expected results of setting a propice context for particular human interactions with virtual or augmented realities, it offers a particular AR architecture to be analyzed.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_spring_2019_music_interaction_design/blob/master/week_11_final/documentation/sonar_wsq.gif" align="middle" width="70%">
+    <a href="https://vimeo.com/349049880">
+        <img src="https://github.com/guillemontecinos/itp_spring_2019_music_interaction_design/blob/master/week_11_final/documentation/sonar_wsq.gif" align="middle" width="100%">
+    </a>
 </p>
 
 
