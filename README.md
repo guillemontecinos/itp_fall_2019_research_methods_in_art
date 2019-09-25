@@ -48,14 +48,12 @@ On top of this structure other elements of King's collection were displayed: bru
 * what are the political implications of immersing ourselves in this miced realities environments?
 
 ### sonAR - A Spatial sound AR experience
-This research project responds to an AR experience I designed last semester called sonAR. It consisted on physical representations of sound sources that were able to be spawned in the real space and explored by the usage of an smartphone or a tablet.
+This research project responds to an AR experience I designed last semester called [sonAR](https://guillemontecinos.cl/portfolio/sonar/). It consisted on physical representations of sound sources that were able to be spawned in the real space and explored by the usage of an smartphone or a tablet.
 
 The goal of this project was to explore how sounds could be spatialized in a virtual space that exists on top of the actuall world, and how humans interacted with, mooved around, looked at and listened to them. Even though the experience didn't achieve the expected results of setting a propice context for particular human interactions with virtual or augmented realities, it offers a particular AR architecture to be analyzed.
 
 <p align="center">
-    <a href="https://guillemontecinos.cl/portfolio/sonar/">
-        <img src="https://github.com/guillemontecinos/itp_spring_2019_music_interaction_design/blob/master/week_11_final/documentation/sonar_wsq.gif" align="middle" width="100%">
-    </a>
+    <img src="https://github.com/guillemontecinos/itp_spring_2019_music_interaction_design/blob/master/week_11_final/documentation/sonar_wsq.gif" align="middle" width="100%">
 </p>
 
 
