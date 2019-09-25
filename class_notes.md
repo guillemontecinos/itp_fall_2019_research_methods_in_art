@@ -64,3 +64,18 @@
 * title, name
 * big question
 
+## Class 3
+* [Timothy Morton](https://en.wikipedia.org/wiki/Timothy_Morton)
+* [Ecology without nature - Timothy Morton](https://www.amazon.com/Ecology-without-Nature-Rethinking-Environmental/dp/0674034856/ref=ed_oe_p)
+* [The selfish gene - Richard Dawkins](https://en.wikipedia.org/wiki/The_Selfish_Gene)
+* [Steven Pinker](https://www.ted.com/talks/steven_pinker_chalks_it_up_to_the_blank_slate)
+* [The Machine in the Garden - Leo Marx](https://en.wikipedia.org/wiki/The_Machine_in_the_Garden)
+* [Garden city movement](https://en.wikipedia.org/wiki/Garden_city_movement)
+* [Self actualization](https://en.wikipedia.org/wiki/Self-actualization)
+* [Guns, Germs, and Steel: The Fates of Human Societies - Jared Diamond](https://en.wikipedia.org/wiki/Guns%2C_Germs%2C_and_Steel)
+* [Powers of ten (Charles & Ray Eames)](https://www.youtube.com/watch?v=0fKBhvDjuy0)
+* Research has to use scales, constant flow
+* Find the points of tension in the research project and push/pull them
+* Cosmos - Carl Seagan
+* [Global Seed Valut](https://www.seedvault.no/)
+* can we solve a complicated/complex problem?
