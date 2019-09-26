@@ -79,3 +79,17 @@
 * Cosmos - Carl Seagan
 * [Global Seed Valut](https://www.seedvault.no/)
 * can we solve a complicated/complex problem?
+* [Matthew Barney drawing constrains](https://ago.ca/exhibitions/matthew-barney-drawing-restraint)
+* [Walden: Life in teh woods](https://en.wikipedia.org/wiki/Walden)
+* **Assignment:** 
+    * Find and pick a case study/person and come next week with a realy heavy comprehension of what they accomplished to be presented in 7 minutes. 
+    * What makes them amazing?
+    * what separates them from everyone else at the time? 
+    * Kill your ma/father. Heavy critique
+    * explain thair methodology, system, tools
+    * Try someone who is useful for us/our work
+    * Jaron Lanier
+* Feedback from research project
+    * Set a name
+    * Oskar Fischinger
+    * [Michael Betancourt](https://en.wikipedia.org/wiki/Michael_Betancourt#The_Digital) - [Harmonia: Glitch, movies and visual music](https://expcinema.org/site/en/books/harmonia-glitch-movies-and-visual-music)
