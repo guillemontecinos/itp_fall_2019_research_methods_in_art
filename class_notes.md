@@ -89,7 +89,24 @@
     * explain thair methodology, system, tools
     * Try someone who is useful for us/our work
     * Jaron Lanier
-* Feedback from research project
+* **Feedback from research project**
     * Set a name
     * Oskar Fischinger
     * [Michael Betancourt](https://en.wikipedia.org/wiki/Michael_Betancourt#The_Digital) - [Harmonia: Glitch, movies and visual music](https://expcinema.org/site/en/books/harmonia-glitch-movies-and-visual-music)
+* **Feedback María José**
+    * Definir el espacio: urbano? performativo?
+    * Cómo se mueven en el espacio? Si es urbano puede ser un trayecto
+    * Definir postura/gestos. son temas súper grandes
+    * Mirada: performance post-superficie. la piel del actor no es el último espacio de la performance
+    * Paralelo entre experiencia AR de trayectos de la ciudad con trayectos dentro del cuerpo humano
+        * Ciudad como ente vivo
+        * Mapa
+    * Simulación de la simulación
+    * "habitus" - Baudrillard
+    * Uniformar la experiencia a través de la tecnología -> desuniformar a través de la tecnología, romper el habitus
+    * [Dérive](https://en.wikipedia.org/wiki/D%C3%A9rive)
+        * Deambular
+        * Hacer el trayecto que te lleve por el camino más largo 
+    * Eugenio Barba: "presencia escénica"
+    * Energía cotidiana vs energía extracotidiana
+    * Algoritmos para hacer performar cuespos en el espacio urbano

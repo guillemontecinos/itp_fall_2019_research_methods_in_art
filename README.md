@@ -77,3 +77,31 @@ The goal of this project was to explore how sounds could be spatialized in a vir
 * You Are Not a Gadget. A manifesto - Jaron Lanier
 * Dawn of the New Everything. A journey through Virtual Reality - Jaron Lanier
 * Simulacra and Simulation - Jean Baudrillard
+
+## Assignment 3: Donna Haraway
+
+Donna Haraway is a U.S. born Biologist, zoologist and feminist, Professor Emerita in the History of Consciousness Department and Feminist Studies Department at the UC, Santa Cruz. She is a prominent researcher and thinker on the field of science and technological studies, post-humanism, post-mornism, techno-humanism.
+
+Her masterpiece "A cyborg manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century" (1985)" established the basis of contemporary post-modernism thinking. In this work she challenged the boundaries that governed humanism, feminism and technology during the second half of the XXth century.
+
+The cyborg is the representation of a mixed being, the negation of an identity, the transition between two states: is a mixture of an animal and a machine, is a being that is not tied to any dependency. In this regard, a cyborg can be the ultimate representation of post-humanism and post-naturalism, is in between human and nature, is both at the same time. But the cyborg is also *the illegitimate ofspring of militarism and patriarchal capitalism, not to mention state socialism*.
+
+Haraway also questions the notion of identity, stating that identities are cultural builts developed historicly that don't bring anything additional. She argues, for example, that the fact of identifying with the idea of being a woman doesn't add anything to the fact of being, it is just *an achievement forced on us by the terrible historical experience of the contradictory social realities of patriarchy, colonialism, and capitalism*, like gender, race, or class consciousness.
+
+By criticising faminism and socialist feminism, Haraway also addresses the *painful fragmentation among feminists*, that can only be tackled by a collective response, through the idea of Affinity, which is handled in opposition to the idea of Identity. She argues that a post-modern identity has to be constructed as an *identity out of otherness, difference, and specifcity*, as a nagation of the identity. 
+
+Regarding th above described we can say that the cyborg is a metaphore of the boundaries between humanistic concepts defined as opposition, as human vs. machine, animal vs. machine, male vs. female, white vs. black, nature vs. culture –among other–, but that currently are dissolving in a world in which transitions between states are fluid.
+
+In a later work she addresses more in deep the pair nature vs culture, asking what is the difference between humans and animals, and what is the difference between cyborgs and animals. Particularly in that work she researched the case of dog, a companion specie that has been domesticated by man –in a relationship of mutual benefit perhaps– who has changed its habitat, modified its DNA and altered its social structure. Attempting to answer that query she argues dogs have been so transformed that they can be understood as cyborgs now, blurring the border between nature and technology (defined as an opposition between human and non-human). That places us in the dichotomy of thinking that if dogs can be cyborgs, cyborgs can be (or are) companion species, since dogs are natural and social beings at the same time.
+
+### References
+* [*Making Oddkin: Story Telling for Earthly Survival*](https://www.youtube.com/watch?v=z-iEnSztKu8)
+* [A Cyborg Manifesto: Science, Technology, and Socialist-feminism in the late Twentieth Century](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf)
+* [Making Oddkin: Story Telling for Earthly Survival - Donna Haraway](https://www.youtube.com/watch?v=z-iEnSztKu8)
+* [From Cyborgs to Companion Species - Donna Haraway](https://www.youtube.com/watch?v=Q9gis7-Jads)
+* [Donna Haraway's Promises of Monsters - Aileen Farrar](https://www.youtube.com/watch?v=wsMCVn7tvfc)
+* [Donna Haraway - Wikipedia](https://en.wikipedia.org/wiki/Donna_Haraway)
+* lynn randolph - cyborg worldlings
+    * https://adanewmedia.org/wp-content/uploads/2013/11/Haraway-image-4.jpg
+    * https://i.pinimg.com/originals/4b/8d/28/4b8d28ee7682583cbe0f4d0d84d52aea.jpg
+* [patricia piccinini](https://www.artsy.net/artist/patricia-piccinini) ecology - cyborg
