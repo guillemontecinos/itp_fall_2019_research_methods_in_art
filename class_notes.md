@@ -110,3 +110,32 @@
     * Eugenio Barba: "presencia escénica"
     * Energía cotidiana vs energía extracotidiana
     * Algoritmos para hacer performar cuespos en el espacio urbano
+
+## CLass 4
+* Request for Proposal
+* [Maya Lin](https://en.wikipedia.org/wiki/Maya_Lin) did the Vietnam Veterans Memorial. It's an interesting case because her RFP was an sketch so powerful that allowed the jury to imagine the piece
+* [Maya Lin @ Storm King Center](https://stormking.org/artist/maya-lin/)
+* [Chris Burden](https://en.wikipedia.org/wiki/Chris_Burden) - [The other Vitnam Memorial](https://www.latimes.com/entertainment/arts/la-et-cm-chris-burden-vietnam-war-memorial-reminder-19920628-column.html)
+* [Richard Serra](https://en.wikipedia.org/wiki/Richard_Serra)
+* [Richard Serra's Tilted Arc](https://en.wikipedia.org/wiki/Tilted_Arc)
+* [Picasso's Bust of Sylvette](http://art-nerd.com/newyork/picassos-bust-of-sylvette/)
+* Research by becoming a doppelganger, embodying the ideas of a hero until you learn something about yourself.
+* Go outside and check as much pieces as you can until you get sick, and then you'll get the moment to create.
+* If you have a hammer everything looks like a nail. Be aware of tools and how they take us
+* [Vito Acconci](https://en.wikipedia.org/wiki/Vito_Acconci)
+
+## Class 5
+* [Josef Albers](https://en.wikipedia.org/wiki/Josef_Albers), Bauhaus painter
+* [Anni Albers](https://en.wikipedia.org/wiki/Anni_Albers), her wife and better artist
+* [Vkhutemas](https://en.wikipedia.org/wiki/Vkhutemas) was the Russian state art and technical school founded in 1920 in Moscow. t was a center for three major movements in avant garde art and architecture: constructivism, rationalism, and suprematism.
+* [Constructivism](https://en.wikipedia.org/wiki/Constructivism_(art))
+* [Brutalist architecture](https://en.wikipedia.org/wiki/Brutalist_architecture)
+* Design for obsolesence
+* [The Story od Stuff](https://storyofstuff.org/)
+* **Assignment** due next week
+    * Define questions
+    * 5 - 10 pages.
+    * Actual thesis, question, set of questions, conclusions 
+    * what is that you wanna say, say and say you said it.
+    * other books, texts, technology, bibliography
+* [The Practice of Everyday Life - Michel De Certeau](https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf)
