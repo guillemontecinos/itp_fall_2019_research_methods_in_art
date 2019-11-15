@@ -139,3 +139,95 @@
     * what is that you wanna say, say and say you said it.
     * other books, texts, technology, bibliography
 * [The Practice of Everyday Life - Michel De Certeau](https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf)
+* [Another Pavement, Another Beach: Skateboarding and the Performative
+Critique of Architecture - Iain Borden](https://discovery.ucl.ac.uk/id/eprint/26049/1/Borden_Another_Pavement.pdf)
+
+## Class 6
+* [Naum Gabo](https://en.wikipedia.org/wiki/Naum_Gabo)
+* [Education of Vision - G. Kepes](https://eric.ed.gov/?id=ED044037)
+* [Lázló Moholy-Nagy](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy)
+* [Piet Mondrian](https://en.wikipedia.org/wiki/Piet_Mondrian)
+* Sankey diagram
+* [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)'s data visualization
+* [Kevin Slavin - How algorithms thape our world (TED)](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)
+* [Blur Building - Swiss 2002](https://dsrny.com/project/blur-building)
+* [Survival Research Labs](http://www.srl.org/)
+* [Stelarc](https://en.wikipedia.org/wiki/Stelarc) - Performance cyborg artist
+* Vitruvian man is a representation of the intersection celestial and real worlds. Look for symbolic analysis.
+
+## Class 8 – Avant-Garde as Method: Vkhutemas, Bauhaus an the Invention of Modernism
+*Anna Bokov*
+
+* Transformation in education that happened during the 2nd industrial rev (~1940)
+* There where two referents: Bauhaus & Vkhutemas
+* Bauhaus (means building house):
+    * Series of publications
+    * "International Architecture" that became "modern architecture" and also "international architcture" (the last coined by MOMA)
+    * [MOMA Cubism and abstract art](http://1vze7o2h8a2b2tyahl3i0t68.wpengine.netdna-cdn.com/wp-content/uploads/2012/10/Cubism-and-Abstract034.jpg)
+* **Vkhutemas: Higher art and thecnical studios**
+    * Institutional school
+    * Alfred Barr jr., MOMA
+        * Visited USSR and Vkhutemas to learn about their art
+        * He put Bauhaus & Vkhutemas together in an exhibit (?)
+    * There where publications about Vkhutemas in France (at least), so it was well known at the time
+    * Both schools where started after socialists revolutions in Russia (1918) and Germany (1917)
+    * "The last futurist exhibition of paintings", 1915 -> artistic expression anticipated world shifting
+    * "The black square", 1915 by Malevich, one of the most radical paintings
+    * Artists not representing the world around them, but taking the agency to represent their own reality with very political stand
+    * Nietzsche (1944 - 1900) as referent
+    * After the 1st international the idea is the entire world was gonna change
+    * USSR wanted to erradicate illiteracy
+    * **The school Institutionalized the avant-garde**
+    * democratization of art
+    * Bauhaus manifesto (1919) was inspired by the creation of the russian school
+    * Free state art studios were created in 1919 after dissolving classic academies (Svomas). That included women as artists and not only as models
+    * School is set as an institutional condensator of the social changes 
+    * That is the moment when schools attempted to create new architecture and art that don't replicates classic art -> schools are institutions where societies can colletively create and think
+    * All movements had to be represented in the school curriculum
+    * Kandinsky was very important in the creation of the Soviet school
+        * Interested in time-based art and pinting and sculture
+        * He was synesthetic
+        * Idea of unitary school
+        * He is kicked out by a younger generation of artists going to Germany
+        * Then he joins Bauhaus
+    * 1927 their reformed Vkutemas into Vkutein, that was closed in 1930
+* **Vkutemas <> Bauhaus**
+    * 1924-25: Vkhutemas: 1445 students / Bauhaus: 127 students
+    * Vkhutemas had a more functional focus than Bauhaus that pursued a more aesthetic and experiential purpose. Example of the tea pots
+    * It's important to remark that those new designs were built with old era's tools
+    * Architecture was part of the vukhtemas from the begining, but it was included in Bauhaus later
+        * There were classes of space
+* **Teaching as experiment**
+    * New pedagogy was about constructing 
+    * New paradigm was: Drawing what we see was transformed into drawing what we imagine
+    * They started thinking of light as a material 
+    * Josef Albers
+    * This is the moment when basic shapes become part of the artistic production, as squres or circles
+* **Grafika**
+    * [Alexandr Rodchenko](https://www.moma.org/artists/4975)
+    * [Varvara Stepanova](https://en.wikipedia.org/wiki/Varvara_Stepanova)
+    * 
+* Was vkhutemas more massive because of the socialist regime?
+* What happened in fascist regimes at the time?
+* how both projects, but specially vukhtemas influenced post war soviet monumental architecture and other non-soviet but affiliated expressions as yugoslavian architectura and urbanism?
+
+## Class 10
+* [Patrick Geddes](https://en.wikipedia.org/wiki/Patrick_Geddes)
+* [Gedde's chart for urban planning](https://i.pinimg.com/originals/16/ce/9b/16ce9b5cc9adbe80779b6f8e8e370fd8.png)
+* [Design and Planning for People in Place: Sir Patrick Geddes (1854–1932) and the Emergence of Ecological Planning, Ecological Design, and Bioregionalism](https://medium.com/@designforsustainability/design-and-planning-for-people-in-place-sir-patrick-geddes-1854-1932-and-the-emergence-of-2efa4886317e)
+* [Taxonomy](https://en.wikipedia.org/wiki/Taxonomy_(general)) *is the practice and science of classification*
+    * Exercise of doing taxonomy of an abstract concept
+    * Start from something that all elements have in common
+* Solution Space
+* [Close reading](https://en.wikipedia.org/wiki/Close_reading)
+* La biblioteca de Babel - Jorge Luis Borges
+* OTME: Origin, Transformation, Migration, Erasure
+    * Mostly used to analyze narrative arcs
+    * [Urban Flotsam, Chora](https://www.archined.nl/2001/10/urban-flotsam-chora-raoul-bunschoten/)
+* **Assignment**
+    * Take one of the examples we did and move it to our project
+    * Make progress in writting
+
+
+
+
